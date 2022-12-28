@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/SPA_Project-react/static/css/main.32c6e70f.css",
+    "main.js": "/SPA_Project-react/static/js/main.58386632.js",
+    "static/media/04-big.jpg": "/SPA_Project-react/static/media/04-big.9dc8caf822c4a4116af4.jpg",
+    "static/media/01-big.jpg": "/SPA_Project-react/static/media/01-big.ecb03349664096d93b17.jpg",
+    "static/media/03-big.jpg": "/SPA_Project-react/static/media/03-big.42d4e6c6843189e73fd2.jpg",
+    "static/media/05-big.jpg": "/SPA_Project-react/static/media/05-big.f315645c87f1dfe5c2c6.jpg",
+    "static/media/02-big.jpg": "/SPA_Project-react/static/media/02-big.55e8268286a008f0aa84.jpg",
+    "static/media/06-big.jpg": "/SPA_Project-react/static/media/06-big.51b90ae43fdfcf0ab077.jpg",
+    "static/media/04.jpg": "/SPA_Project-react/static/media/04.da38cca11cede6d4ef43.jpg",
+    "static/media/01.jpg": "/SPA_Project-react/static/media/01.793b5447d182a00fa739.jpg",
+    "static/media/03.jpg": "/SPA_Project-react/static/media/03.a1f0cefe3665b6313065.jpg",
+    "static/media/05.jpg": "/SPA_Project-react/static/media/05.497e1d12eb46a0b52271.jpg",
+    "static/media/06.jpg": "/SPA_Project-react/static/media/06.86ff2b3c4326d053ac65.jpg",
+    "static/media/02.jpg": "/SPA_Project-react/static/media/02.97324eaa701fadea307f.jpg",
+    "static/media/header-bg.png": "/SPA_Project-react/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/test-icon.svg": "/SPA_Project-react/static/media/test-icon.253a36234fd5a6527934546614de9ed9.svg",
+    "static/media/sun.svg": "/SPA_Project-react/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/SPA_Project-react/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/logo_telegram.svg": "/SPA_Project-react/static/media/logo_telegram.b4455e1b7453b1156bcdf070b4db2d40.svg",
+    "static/media/instagram.svg": "/SPA_Project-react/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/vk.svg": "/SPA_Project-react/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/twitter.svg": "/SPA_Project-react/static/media/twitter.d4b0a40866d7b735834b96db6728afc1.svg",
+    "static/media/linkedIn.svg": "/SPA_Project-react/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/SPA_Project-react/index.html",
+    "main.32c6e70f.css.map": "/SPA_Project-react/static/css/main.32c6e70f.css.map",
+    "main.58386632.js.map": "/SPA_Project-react/static/js/main.58386632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c6e70f.css",
+    "static/js/main.58386632.js"
+  ]
+}
