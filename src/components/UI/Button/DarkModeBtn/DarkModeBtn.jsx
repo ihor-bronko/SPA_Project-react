@@ -20,6 +20,15 @@ const DarkModeBtn = () => {
 		}
 	}, [darkMode])
 
+	useEffect(() => {
+		window
+			.matchMedia('(prefers-color-scheme: dark)')
+			.addEventListener('change', event => {
+				const newColorScheme = event.matches ? 'dark' : 'light'
+				setDarkMode(newColorScheme)
+			})
+	}, [])
+
 	const toggleDarkMode = () => {
 		setDarkMode(currentValue => {
 			return currentValue === 'light' ? 'dark' : 'light'
